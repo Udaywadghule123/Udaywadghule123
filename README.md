@@ -87,8 +87,8 @@
 - Personal Portfolio Website
 - React Todo Application
 - Full Stack Blog Platform
-- Industrial GUI Dashboard using QML
-- Arduino & STM32 Projects
+
+
 
 ---
 
