@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Uday Wadghule</h1>
 
-<h3 align="center">Electronics Engineer | Full Stack Developer | Industrial GUI Developer</h3>
+<h3 align="center">Electronics Engineer | Front End Developer | Industrial GUI Developer</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Electronics+Engineer;Full+Stack+Developer;QML+GUI+Developer;Learning+DSA+and+System+Design;Building+Real+World+Projects" />
