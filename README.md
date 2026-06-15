@@ -14,8 +14,8 @@
 - 💼 Ex Project Associate @ CSIR-NCL Pune
 - 🖥️ Experience in QML & Industrial GUI Development
 - 🌱 Learning Full Stack Web Development
-- 📚 Studying DSA and System Design
-- 🚀 Looking for Software Development Opportunities
+- 📚 Studying System Design
+- 🚀 Looking for Software Development as well as core Opportunities 
 
 ---
 
