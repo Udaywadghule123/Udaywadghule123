@@ -10,12 +10,12 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Electronics Engineering Graduate
-- 💼 Ex Project Associate @ CSIR-NCL Pune
-- 🖥️ Experience in QML & Industrial GUI Development
-- 🌱 Learning Full Stack Web Development
-- 📚 Studying System Design
-- 🚀 Looking for Software Development as well as core Opportunities 
+- 🎓 Electronics Engineering Graduate.
+- 💼 Ex Project Associate @ CSIR-NCL Pune.
+- 🖥️ Experience in QML & Industrial GUI Development.
+- 🌱 Learning Full Stack Web Development.
+- 📚 Studying System Design.
+- 🚀 Looking for Software Development as well as core Opportunities. 
 
 ---
 
