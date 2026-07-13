@@ -13,6 +13,7 @@
 - 🎓 Electronics Engineering Graduate.
 - 💼 Ex Project Associate @ CSIR-NCL Pune.
 - 🖥️ Experience in QML & Industrial GUI Development.
+- 📊 Building interactive dashboards using Power BI
 - 🌱 Learning Full Stack Web Development.
 - 📚 Studying System Design.
 - 🚀 Looking for Software Development as well as core Opportunities. 
@@ -23,11 +24,23 @@
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mysql,git,github,cpp,vscode,PowerBI"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mysql,git,github,cpp,vscode,mongodb,qt,vite"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="45" height="45"/>
 
 </p>
 
 ---
+
+### 📊 BI & Analytics
+
+<p align="left">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="45" height="45"/>
+
+</p>
+
+-----
+
 
 ### 📈 GitHub Stats
 
